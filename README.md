@@ -5,11 +5,11 @@ A student record form that takes user data from the user and saves to a local da
 The form allows the user to enter data for one individual student at a time. 
 As soon as the data is entered and the record is added, it appears in the local database and in the view users page.<br>
 
-<b>Local database:</b><br>
+<b>Local database after some records were added:</b><br>
 
 <img src = "images/users%20database%20screenshot.png" width = "70%"><br>
 
-<b>View users page:</b><br>
+<b>View users page after some records were added:</b><br>
 
 <img src = "images/view%20users.png" width ="80%">
 
